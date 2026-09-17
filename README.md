@@ -349,7 +349,7 @@ Potential future improvements include:
 
 To view the full project report, you can download it here:
 
-[Download the IT8520 Smart City AI IDS Project Report](report/IT8520-Smart-City-AI-IDS-Project-Report.docx)
+[Download the IT8520 Smart City AI IDS Project Report](report/Project_IT8520.docx)
 
 # Academic Information
 
